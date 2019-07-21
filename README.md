@@ -1,5 +1,5 @@
 # Not so dumb smoke detector
-A smart smoke detector which you can turn off using Google Assistant if you turn it on accidentally. 
+A smart smoke detector which you can turn off using Google Assistant if you turn it on accidentally. This prototype was developed under 24 hours including the  concept, idea, breadboarding, electronics, soldering, CAD designing and 3d printing as part of #24hoursprototypechallenge.
 
 Complete Video Here : https://youtu.be/j9lKQJRmcAQ
 
